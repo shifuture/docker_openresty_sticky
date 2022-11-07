@@ -1,6 +1,6 @@
 # Description
 
-Refer to (docker-nginx-sticky)[https://github.com/BenHall/docker-nginx-sticky]
+Refer to [docker-nginx-sticky](https://github.com/BenHall/docker-nginx-sticky)
 
 # Build
 
